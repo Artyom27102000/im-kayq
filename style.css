@@ -1,0 +1,224 @@
+.main{
+	margin: auto;
+	width: 1000px;
+	border:1px solid black;
+	font-family: 'Indie Flower', cursive;
+}
+.header img{
+	margin:16px 50px 116px;
+}
+.menu{
+	border:1px solid black;
+	background-color: green;
+	height:33px;
+	padding: 5px 0px 5px 0px;
+}
+.header{
+	height: 150px;
+	border:1px solid black;
+	position: relative;
+	background-color: lightblue;
+}
+.contact{
+	height: 550px;
+	border:1px solid black;
+	background-color: lightblue;
+	position: relative;
+}
+.footer{
+	height: 70px;
+	border:1px solid black;
+	background-color: lightblue;
+}
+.manu li{
+	display: inline;
+	margin-right:40px;
+}
+.manu{
+	margin: 0px;		
+	padding:0px;
+	padding-left: 1px;
+}
+.manu a{
+	text-decoration: none;
+	padding-left: 50px;
+	color:rgb(150,200,240);
+}
+h1,h2{
+	text-align: center;
+	margin-bottom: 3px;
+}
+p{
+	padding: 10px;
+}
+.manu a:hover{
+	color: red;
+}
+form{
+	margin-left: 10px;
+}
+.scroll{
+	overflow-y: scroll;
+}
+.img{
+	height: 120px;
+	width: 120px;
+}
+.span1{
+	position: absolute;
+	top:5px;
+	right: 3px;
+	font-size: 30px
+}
+.span2{
+	position: absolute;
+	top:40px;
+	right: 3px;
+	font-size: 30px
+}
+.top{
+	height: 250px;
+}
+.daun{
+	height: 278px;
+}
+.dzax{
+	display: inline-block;
+	width: 400px;
+	height: 250px;
+	position: relative;
+}
+.aj{
+	display: inline-block;
+	width: 590px;
+	height: 250px;
+	overflow-y:scroll;
+}
+.mecnkar{
+	height:190px;
+	width: 355px;
+	position: absolute;
+	top:8px;
+	left:10px;
+}
+.nkar1{
+	height:75px;
+	width: 115px;
+	position: absolute;
+	top:210px;
+	left:10px;
+}
+.nkar2{
+	height:75px;
+	width: 115px;
+	position: absolute;
+	top:210px;
+	left:130px;
+}
+.nkar3{
+	height:75px;
+	width: 115px;
+	position: absolute;
+	top:210px;
+	left:250px;
+}
+.p{
+	font-size: 25px;
+	margin: 0px;
+}
+#top{
+	height:285px;
+}
+#daun{
+	height: 265px;
+}
+#h1{
+	position: absolute;
+	top:5px;
+	left:30px;
+	margin: 0px;
+}
+.nkar{
+	position: absolute;
+	top:60px;
+	left:10px;
+	margin: 0px;
+	width:250px;
+	height:180px;
+}
+.chap{
+	font-size: 35px;
+}
+.tex1{
+	position: absolute;
+	top:30px;
+	left:300px;
+}
+.tex2{
+	position: absolute;
+	top:90px;
+	left:300px;
+}
+.tex3{
+	position: absolute;
+	top:150px;
+	left:300px;
+}
+.left{
+	height:260px;
+	width: 430px;
+	display: inline-block;
+	margin-right: 30px;
+}
+.right{
+	height: 260px;
+	width: 400px;
+	display: inline-block;
+	
+}
+.k{
+	font-size: 40px;
+	padding: 10px;
+}
+.w{
+	font-size: 25px;
+	padding: 15px;
+}
+.shlor{
+	height: 548px;
+	width: 500px;
+	display: inline-block;
+	position: relative;
+	left:30px;
+}
+.muraba{
+	height: 548px;
+	width: 490px;
+	display: inline-block;
+	position: relative;
+}
+iframe{
+	position: relative;
+	top: 50px;
+	width: 400px;
+	height: 260px;
+}
+span{
+	font-size: 40px;
+}
+table td{
+	font-size: 20px;
+}
+.shlor a{
+	font-size: 20px;
+	text-decoration: none;
+}
+.shlor a:hover{
+	color: white;
+}
+.scroll h2{
+	text-align: center;
+}
+.mex{
+	font-size: 20px;
+}
